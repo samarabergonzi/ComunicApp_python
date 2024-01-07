@@ -4,7 +4,7 @@
 
 O ComunicApp é um aplicativo desenvolvido especialmente para facilitar a comunicação de crianças autistas, proporcionando uma experiência inclusiva e personalizada. Com uma interface intuitiva e recursos adaptados, o aplicativo visa promover a expressão e interação das crianças, contribuindo para o seu desenvolvimento social e emocional.
 
-<img src="https://github.com/samarabergonzi/ComunicApp_python/blob/main/APLICATIVO%20COMUNICA%C3%87%C3%83O%20APARA%20CRIAN%C3%87AS.PNG" width="200" height="400" />
+<img src="https://github.com/samarabergonzi/ComunicApp_python/blob/main/APLICATIVO%20COMUNICA%C3%87%C3%83O%20APARA%20CRIAN%C3%87AS.PNG" width="800" height="400" />
 
 ## Funcionalidades
 
