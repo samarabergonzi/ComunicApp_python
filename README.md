@@ -20,8 +20,8 @@ O ComunicApp é um aplicativo desenvolvido especialmente para facilitar a comuni
    ```bash
    git clone https://github.com/seu-usuario/comunicapp.git
 
-pip install tk<b>
-pip install pygame
+pip install tk<br />
+pip install pygame<br />
 
 ## Licença
 
